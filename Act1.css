@@ -1,0 +1,90 @@
+body {
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/001/790/945/original/abstract-pink-background-free-video.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+   }
+
+   .principal { 
+    background-color: rgb(244, 149, 199);
+    width: 600px;
+    height: 700px;
+    }
+
+    .titulo {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Times New Roman;
+    font-size: 50px;
+    color: #26031c;
+    }
+
+    .login {
+    display: flex;
+    align-items: center;
+    color: #091737;
+    font-size: 20px;
+    font-family: Helvetica;
+    }
+
+   input {
+    background-color: #5b084946;
+    height: 40px; 
+    width: 500px;
+    border: none;
+    margin: 5px;
+    margin-bottom: 20px;
+    font-family: Helvetica;
+    }
+
+    label {
+        color: #250122;
+        font-size: 20px;
+        border: none;
+        margin: 5px;
+        font-family: Helvetica;
+        }
+
+    button {
+
+            background-color: #d427a6b1;
+            margin-bottom: 20px;
+            font-size: 20px;
+            border: none;
+        }
+
+    .centro {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        }
+   
+    
+    h3 {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 10px;
+        font-size: 20px;
+        align-items: space-around;
+        font-size: 15px;
+        font-family: Helvetica;
+        color: #1f0216;
+        }
+
+    .redes {
+        display: flex;
+        justify-content: center;
+
+        }
+    
+    img {
+        border-radius: 30px;
+        height: 50px;
+        width: 50px;
+        margin: 5px;
+        margin-bottom: 40px;
+        }
